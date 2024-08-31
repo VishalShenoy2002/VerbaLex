@@ -1,0 +1,8 @@
+langchain-community 
+html2text
+transformers 
+langchain 
+langchain-huggingface 
+langchain-groq
+python-libmagic
+"unstructured[all-docs]"
